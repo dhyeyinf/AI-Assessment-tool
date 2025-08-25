@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhyey** - Full Stack Developer
 - GitHub: [@dhyeyinf](https://github.com/dhyeyinf)
-- LinkedIn: [LinkedIN](https://www.linkedin.com/in/dhyeyfindoriya/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dhyeyfindoriya/)
 - Email: dhyey.inf323@gmail.com
 
 ## Acknowledgments
