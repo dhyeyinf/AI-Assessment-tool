@@ -17,4 +17,3 @@ class SingleSessionJWTAuthentication(JWTAuthentication):
         if user.active_jti != jti:
             raise InvalidToken("Session invalid. Only one active login allowed.")
         return user, validated_token
-
